@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/filepond_demo/static/css/main.76c19023.css",
+    "main.js": "/filepond_demo/static/js/main.ff71379f.js",
+    "static/js/787.43b1c829.chunk.js": "/filepond_demo/static/js/787.43b1c829.chunk.js",
+    "index.html": "/filepond_demo/index.html",
+    "main.76c19023.css.map": "/filepond_demo/static/css/main.76c19023.css.map",
+    "main.ff71379f.js.map": "/filepond_demo/static/js/main.ff71379f.js.map",
+    "787.43b1c829.chunk.js.map": "/filepond_demo/static/js/787.43b1c829.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76c19023.css",
+    "static/js/main.ff71379f.js"
+  ]
+}
